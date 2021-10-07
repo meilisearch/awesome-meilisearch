@@ -8,34 +8,66 @@ Please take a quick gander at the [contribution guidelines](https://github.com/m
 
 ## Contents
 
-- [Awesome MeiliSearch](#awesome-meilisearch)
-    - [Audio and Music](#audio-and-music)
-    - [Authentication and OAuth](#authentication-and-oauth)
-    
-
-- [Tools](#tools)
-    - [Code Analysis](#code-analysis)
-    - [Editor Plugins](#editor-plugins)
-    - [Go Generate Tools](#go-generate-tools)
-    - [Go Tools](#go-tools)
-    - [Software Packages](#software-packages)
-        - [DevOps Tools](#devops-tools)
-        - [Other Software](#other-software)
-
+- [Guides & Tutorials](#guides--tutorials)
+    - [MeiliSearch guides](#meilisearch-guides)
+    - [Community guides](#community-guides)
+- [Integrations](#integrations)
+    - [Official integrations](#official-integrations)
+    - [Community Integrations](#community-integrations)
+- [Demos](#demos)
+- [Talks](#talks)
+- [Blog Posts](#blog-posts)
+    - [MeiliSearch Blog Posts](#meilisearch-blog-posts)
+    - [Community Blog Posts](#community-blog-posts)
 - [Resources](#resources)
-    - [Benchmarks](#benchmarks)
-    - [Conferences](#conferences)
-    - [E-Books](#e-books)
-    - [Gophers](#gophers)
-    - [Meetups](#meetups)
-    - [Style Guides](#style-guides)
-    - [Twitter](#twitter)
     - [Websites](#websites)
-        - [Tutorials](#tutorials)
+    - [Social networks](#social-networks)
+ - [Other](#other)
 
 **[⬆ back to top](#contents)**
 
-## Audio and Music
+## Guides & Tutorials]
+
+*Guides and tutorials*
+
+**[⬆ back to top](#contents)**
+
+## Integrations
+
+*MeiliSearch integrations created by MeiliSearch or the community*
+
+**[⬆ back to top](#contents)**
+
+## Demos
+
+*See MeiliSearch in action*
+
+**[⬆ back to top](#contents)**
+
+## Talks
+
+*Talks about MeiliSearch*
+
+**[⬆ back to top](#contents)**
+
+## Blog Posts
+
+*Read what the MeiliSearch's team has written or what others say about us*
+
+**[⬆ back to top](#contents)**
+
+## Resources
+
+*Various resources*
+
+**[⬆ back to top](#contents)**
+
+## Other
+
+**[⬆ back to top](#contents)**
+
+
+## 
 
 *Libraries for manipulating audio.*
 

@@ -4,15 +4,15 @@ Inspired by [Awesome Go](https://github.com/avelino/awesome-go) and [Awesome Pyt
 
 ## Contributing
 
-Please take a look at the [contribution guidelines](https://github.com/meilisearch/awesome-meilisearch/blob/main/CONTRIBUTING.md).
+Please take a look at the [Contribution Guidelines](https://github.com/meilisearch/awesome-meilisearch/blob/main/CONTRIBUTING.md).
 
 ## Table of Contents
 
 - [Guides & Tutorials](#guides--tutorials)
-    - [MeiliSearch guides](#meilisearch-guides)
-    - [Community guides](#community-guides)
+    - [MeiliSearch Guides](#meilisearch-guides)
+    - [Community Guides](#community-guides)
 - [Integrations](#integrations)
-    - [Official integrations](#official-integrations)
+    - [Official Integrations](#official-integrations)
     - [Community Integrations](#community-integrations)
 - [Demos](#demos)
 - [Talks](#talks)
@@ -30,11 +30,19 @@ Please take a look at the [contribution guidelines](https://github.com/meilisear
 
 *Guides and tutorials*
 
+### MeiliSearch Guides
+
+### Community Guides
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Integrations
 
 *MeiliSearch integrations created by MeiliSearch or the community*
+
+### Official Integrations
+
+### Community Integrations
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -54,11 +62,20 @@ Please take a look at the [contribution guidelines](https://github.com/meilisear
 
 *Read what the MeiliSearch's team has written or what others say about us*
 
+### MeiliSearch Blog Posts
+
+### Community Blog Posts
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Resources
 
 *Various resources*
+
+### Websites
+
+### Social Networks
 
 **[⬆ back to top](#table-of-contents)**
 

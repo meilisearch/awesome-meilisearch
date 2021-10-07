@@ -24,44 +24,45 @@ Please take a look at the [contribution guidelines](https://github.com/meilisear
     - [Social networks](#social-networks)
  - [Other](#other)
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Guides & Tutorials
 
 *Guides and tutorials*
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Integrations
 
 *MeiliSearch integrations created by MeiliSearch or the community*
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Demos
 
 *See MeiliSearch in action*
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Talks
 
 *Talks about MeiliSearch*
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Blog Posts
 
 *Read what the MeiliSearch's team has written or what others say about us*
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Resources
 
 *Various resources*
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#table-of-contents)**
 
 ## Other
+*Miscellaneous*
 
-**[⬆ back to top](#contents)**
+**[⬆ back to top](#table-of-contents)**

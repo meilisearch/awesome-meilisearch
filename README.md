@@ -21,7 +21,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
     - [Community Blog Posts](#community-blog-posts)
 - [Resources](#resources)
     - [Websites](#websites)
-    - [Social networks](#social-networks)
+    - [Social Networks](#social-networks)
  - [Other](#other)
 
 **[⬆ back to top](#table-of-contents)**
@@ -63,6 +63,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *Read what the MeiliSearch's team has written or what others say about us*
 
 ### MeiliSearch Blog Posts
+* [MeiliSearch blog](https://blog.meilisearch.com/) - The official MeiliSearch blog
+
 
 ### Community Blog Posts
 
@@ -74,8 +76,12 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *Various resources*
 
 ### Websites
+* [Website](https://www.meilisearch.com/) - The official MeiliSearch website
+* [Blog](https://blog.meilisearch.com/) - The official MeiliSearch blog
 
 ### Social Networks
+* [Twitter](https://twitter.com/meilisearch) - The official MeiliSearch Twitter account
+* [Linkedin](https://www.linkedin.com/company/meilisearch/) - The official MeiliSearch Linkedin account
 
 **[⬆ back to top](#table-of-contents)**
 

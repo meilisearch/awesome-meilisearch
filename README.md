@@ -8,12 +8,15 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ## Table of Contents
 
-- [Guides & Tutorials](#guides--tutorials)
+- [Guides, Tutorials and Courses](#guides--tutorials)
     - [MeiliSearch Guides](#meilisearch-guides)
     - [Community Guides](#community-guides)
 - [Integrations](#integrations)
     - [Official Integrations](#official-integrations)
     - [Community Integrations](#community-integrations)
+- [Tools](#tools)
+    - [Official Tools](#official-tools)
+    - [Community Tools](#community-tools)
 - [Demos](#demos)
 - [Talks](#talks)
 - [Blog Posts](#blog-posts)
@@ -26,7 +29,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 **[⬆ back to top](#table-of-contents)**
 
-## Guides & Tutorials
+## Guides, Tutorials and Courses
 
 *Guides and tutorials*
 
@@ -43,7 +46,24 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 ### Official Integrations
 
 ### Community Integrations
-* [MongoMeili](https://github.com/loophole-labs/mongomeili) - Keep your MongooseJS Schemas synced with MeiliSearch
+* [MongoMeili](https://github.com/loophole-labs/mongomeili) - Sync MongooseJS Schemas with MeiliSearch
+* [YunoHost](https://github.com/YunoHost-Apps/meilisearch_ynh) - Meilisearch on a YunoHost server
+* [D](https://github.com/aberba/meilisearch) - A MeiliSearch API for D
+* [Craft CMS](https://github.com/unionco/craft-meilisearch) - Plugin for Craft CMS 3.x
+* [Airbyte](https://airbyte.io/connectors/meilisearch) - Connector for Airbyte
+* [Statamic MeiliSearch](https://statamic.com/addons/elvenstar/statamic-meilisearch) - Driver for Statamic 3
+* []() - 
+
+
+**[⬆ back to top](#table-of-contents)**
+
+## Tools
+
+*Tools created by MeiliSearch or the community*
+### Official Tools
+
+### Community Tools
+* [AIO_MEILISEARCH](https://github.com/devtud/aio_meilisearch) - Async Wrapper over Meilisearch REST API
 
 **[⬆ back to top](#table-of-contents)**
 

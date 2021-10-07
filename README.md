@@ -43,6 +43,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 ### Official Integrations
 
 ### Community Integrations
+* [MongoMeili](https://github.com/loophole-labs/mongomeili) - Keep your MongooseJS Schemas synced with MeiliSearch
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -63,7 +64,6 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *Read what the MeiliSearch's team has written or what others say about us*
 
 ### MeiliSearch Blog Posts
-* [MeiliSearch blog](https://blog.meilisearch.com/) - The official MeiliSearch blog
 
 
 ### Community Blog Posts

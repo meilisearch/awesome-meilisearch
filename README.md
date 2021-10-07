@@ -8,7 +8,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ## Table of Contents
 
-- [Guides, Tutorials and Courses](#guides--tutorials)
+- [Guides, Tutorials and Courses](#guides-tutorials-and-courses)
     - [MeiliSearch Guides](#meilisearch-guides)
     - [Community Guides](#community-guides)
 - [Integrations](#integrations)
@@ -31,11 +31,12 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ## Guides, Tutorials and Courses
 
-*Guides and tutorials*
+*Learn MeiliSearch*
 
 ### MeiliSearch Guides
 
 ### Community Guides
+* [Searching with Laravel Scout and Meilisearch](https://codecourse.com/courses/searching-with-laravel-scout-and-meilisearch) -  Build a search experience for any database data by combining Laravel Scout and Meilisearch
 
 **[⬆ back to top](#table-of-contents)**
 

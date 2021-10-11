@@ -46,6 +46,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Master Full Text Search with MeiliSearch on MinIO](https://blog.min.io/master-full-text-search-with-meilisearch-on-minio/) - How to use MinIO with MeiliSearch
 * [Serverless search with Meilisearch and Google Cloud Run](https://blog.simonireilly.com/posts/serverless-search)
 * [MeiliSearch: A definitive guide](https://blog.logrocket.com/meilisearch-a-definitive-guide/) - Wow to interact with an instance through the API client for JavaScript developers
+* [MeiliSearch under Windows](http://www.skrejci.com/2021/05/meilisearch-under-windows/) - Installing on Windows
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -96,7 +97,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 
 ### Community Blog Posts
-
+* [MeiliSearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html) - A description
 
 **[⬆ back to top](#table-of-contents)**
 

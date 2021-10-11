@@ -157,6 +157,11 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 *Talks about MeiliSearch*
 
+* [Rawkode Live: Introduction to Meilisearch](https://www.youtube.com/watch?v=SJl2UWfy1nk)
+* [Strapi conf 2021: Integrate open-source search into your Strapi project](https://www.youtube.com/watch?v=brG3738V2bU)
+* [Strapi webinar: Modern Search Solutions for the Jamstack with MeiliSearch](https://www.youtube.com/watch?v=mO_I02ZAfmM&t=4s) - 
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Blog Posts
@@ -164,7 +169,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *Read what the MeiliSearch's team has written or what others say about us*
 
 ### MeiliSearch Blog Posts
-
+* [Latest's release blog post](https://blog.meilisearch.com/whats-new-in-v0-22/) - version 0.22
 
 ### Community Blog Posts
 * [MeiliSearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)

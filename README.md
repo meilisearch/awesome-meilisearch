@@ -42,7 +42,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Deploy on GCP](https://docs.meilisearch.com/create/how_to/gcp.html) - Deploy a MeiliSearch instance on Google Cloud Platform (GCP) Compute Engine
 * [Deploy on DigitalOcean](https://docs.meilisearch.com/create/how_to/digitalocean_droplet.html) - Deploy a MeiliSearch instance on DigitalOcean
 * [Deploy on Qovery](https://docs.meilisearch.com/create/how_to/qovery.html) - Deploy a MeiliSearch instance on Qovery
-* [Use Postman with MeiliSearch](https://docs.meilisearch.com/create/how_to/postman_collection.html) - https://docs.meilisearch.com/create/how_to/postman_collection.html
+* [Use Postman with MeiliSearch](https://docs.meilisearch.com/create/how_to/postman_collection.html) - Postman collection for MeiliSearch
 
 ### Community Guides
 * [Searching with Laravel Scout and Meilisearch](https://codecourse.com/courses/searching-with-laravel-scout-and-meilisearch) -  Build a search experience for any database data by combining Laravel Scout and Meilisearch

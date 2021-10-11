@@ -40,7 +40,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Setting up Meilisearch on Production Ubuntu for Laravel project](https://postsrc.com/posts/setting-up-meilisearch-on-production-ubuntu-for-laravel-project) - How to set up MeiliSearch for a Laravel project
 * [Adding Search to Rails with MeiliSearch](https://blog.cloud66.com/adding-search-to-rails-with-meilisearch/) - How to integrate MeiliSearch in a Rails app
 * [How to Install a Specific Version of MeiliSearch](https://medium.com/@biarosenbaum/how-to-install-a-specific-version-of-meilisearch-2552bee8c351)
-* [How I implemented full-text search on Firebase with MeiliSearch for Secrets App.](https://medium.com/@stevapps256/how-i-implemented-full-text-search-on-firebase-with-meilisearch-for-secrets-app-6b853484c999) - How to integrate MeiliSearch on Firebase
+* [How I implemented full-text search on Firebase with MeiliSearch for Secrets App](https://medium.com/@stevapps256/how-i-implemented-full-text-search-on-firebase-with-meilisearch-for-secrets-app-6b853484c999) - How to integrate MeiliSearch on Firebase
 * [Deploy MeiliSearch with Dokku for production](https://okhlopkov.com/deploy-meilisearch-with-dokku-for-production/) - How to deploy MeiliSearch with Dokku
 * [How to Deploy MeiliSearch on Laravel Forge](https://postsrc.com/posts/how-to-deploy-meilisearch-on-laravel-forge)
 * [Master Full Text Search with MeiliSearch on MinIO](https://blog.min.io/master-full-text-search-with-meilisearch-on-minio/) - How to use MinIO with MeiliSearch

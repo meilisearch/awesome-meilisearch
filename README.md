@@ -9,7 +9,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 ## Table of Contents
 
 - [Guides, Tutorials and Courses](#guides-tutorials-and-courses)
-    - [MeiliSearch Guides](#meilisearch-guides)
+    - [Official Guides](#official-guides)
     - [Community Guides](#community-guides)
 - [Integrations](#integrations)
     - [Official Integrations](#official-integrations)

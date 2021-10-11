@@ -16,3 +16,4 @@ Your contributions are always welcome!
 * Don't mention `MeiliSearch` in the description as it's implied.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
+* At the moment, description and content must be in English language

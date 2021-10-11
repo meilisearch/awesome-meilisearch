@@ -34,14 +34,20 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *Learn MeiliSearch*
 
 ### Official Guides
+
+#### Basics
 * [Quick Start](https://docs.meilisearch.com/learn/getting_started/quick_start.html)
 * [Installation](https://docs.meilisearch.com/learn/getting_started/installation.html)
 * [Update](https://docs.meilisearch.com/create/how_to/updating.html) - Update to the latest MeiliSearch version
 * [Run MeiliSearch in production](https://docs.meilisearch.com/create/how_to/running_production.html)
+
+#### Deploy
 * [Deploy on AWS](https://docs.meilisearch.com/create/how_to/aws.html) - Deploy a MeiliSearch instance on Amazon Web Services (AWS)
 * [Deploy on GCP](https://docs.meilisearch.com/create/how_to/gcp.html) - Deploy a MeiliSearch instance on Google Cloud Platform (GCP) Compute Engine
 * [Deploy on DigitalOcean](https://docs.meilisearch.com/create/how_to/digitalocean_droplet.html) - Deploy a MeiliSearch instance on DigitalOcean
 * [Deploy on Qovery](https://docs.meilisearch.com/create/how_to/qovery.html) - Deploy a MeiliSearch instance on Qovery
+
+#### Miscellaneous
 * [Use Postman with MeiliSearch](https://docs.meilisearch.com/create/how_to/postman_collection.html) - Postman collection for MeiliSearch
 * [Integrate a relevant search bar to your documentation](https://docs.meilisearch.com/create/how_to/search_bar_for_docs.html)
 * [Use HTTP/2 and SSL with MeiliSearch](https://docs.meilisearch.com/create/how_to/http2_ssl.html)
@@ -66,6 +72,37 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *MeiliSearch integrations created by MeiliSearch or the community*
 
 ### Official Integrations
+* [MeiliSearch official Integrations](https://github.com/meilisearch/integration-guides) - Central reference for MeiliSearch integrations
+
+#### SDK
+
+* [.Net](https://github.com/meilisearch/meilisearch-dotnet)
+* [Dart](https://github.com/meilisearch/meilisearch-dart)
+* [Golang](https://github.com/meilisearch/meilisearch-go)
+* [Java](https://github.com/meilisearch/meilisearch-java)
+* [JavaScript](https://github.com/meilisearch/meilisearch-js)
+* [PHP](https://github.com/meilisearch/meilisearch-php)
+* [Python](https://github.com/meilisearch/meilisearch-python)
+* [Ruby](https://github.com/meilisearch/meilisearch-ruby)
+* [Rust](https://github.com/meilisearch/meilisearch-rust)
+- [Swift](https://github.com/meilisearch/meilisearch-swift)
+
+#### Framework Integrations
+
+* [Laravel](https://github.com/laravel/scout) - official Laravel-Scout package
+* [Ruby on Rails](https://github.com/meilisearch/meilisearch-rails)
+* [Symfony](https://github.com/meilisearch/meilisearch-symfony)
+
+#### Front-End Integrations
+
+* [Angular](https://github.com/meilisearch/meilisearch-angular)
+* [React](https://github.com/meilisearch/meilisearch-react)
+* [Vue](https://github.com/meilisearch/meilisearch-vue)
+
+#### Platform Plugins
+
+- [VuePress](https://github.com/meilisearch/vuepress-plugin-meilisearch)
+- [Strapi](https://github.com/meilisearch/strapi-plugin-meilisearch)
 
 ### Community Integrations
 * [MongoMeili](https://github.com/loophole-labs/mongomeili) - Sync MongooseJS Schemas with MeiliSearch
@@ -75,13 +112,26 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Airbyte](https://airbyte.io/connectors/meilisearch) - Connector for Airbyte
 * [Statamic MeiliSearch](https://statamic.com/addons/elvenstar/statamic-meilisearch) - Driver for Statamic 3
 
-
 **[⬆ back to top](#table-of-contents)**
 
 ## Tools
 
 *Tools created by MeiliSearch or the community*
+
 ### Official Tools
+
+#### DevOps Tools
+
+* [meilisearch-digitalocean](https://github.com/meilisearch/meilisearch-digitalocean) - Deploy on DigitalOcean
+* [meilisearch-aws](https://github.com/meilisearch/meilisearch-aws) - Deploy on AWS
+* [meilisearch-gcp](https://github.com/meilisearch/meilisearch-gcp) - Deploy on GCP
+* [meilisearch-kubernetes](https://github.com/meilisearch/meilisearch-kubernetes) - Deploy on Kubernetes
+* [Cloud Scripts](https://github.com/meilisearch/cloud-scripts) - a set of cloud-agnostic tools and scripts to improve deployment on the cloud
+
+#### Miscellaneous
+* [instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - a plugin to establish the communication between MeiliSearch and the open-source [InstantSearch](https://github.com/algolia/instantsearch.js) tools (powered by Algolia)
+* [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) - a search bar integration for all kinds of documentation
+* [docs-scraper](https://github.com/meilisearch/docs-scraper) -  a scraper tool to automatically read the content of your documentation and store it into MeiliSearch.
 
 ### Community Tools
 * [AIO_MEILISEARCH](https://github.com/devtud/aio_meilisearch) - Async Wrapper over Meilisearch REST API

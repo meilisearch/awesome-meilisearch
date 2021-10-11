@@ -33,7 +33,16 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 *Learn MeiliSearch*
 
-### MeiliSearch Guides
+### Official Guides
+* [Quick Start](https://docs.meilisearch.com/learn/getting_started/quick_start.html)
+* [Installation](https://docs.meilisearch.com/learn/getting_started/installation.html)
+* [Update](https://docs.meilisearch.com/create/how_to/updating.html) - Update to the latest MeiliSearch version
+* [Run MeiliSearch in production](https://docs.meilisearch.com/create/how_to/running_production.html)
+* [Deploy on AWS](https://docs.meilisearch.com/create/how_to/aws.html) - Deploy a MeiliSearch instance on Amazon Web Services (AWS)
+* [Deploy on GCP](https://docs.meilisearch.com/create/how_to/gcp.html) - Deploy a MeiliSearch instance on Google Cloud Platform (GCP) Compute Engine
+* [Deploy on DigitalOcean](https://docs.meilisearch.com/create/how_to/digitalocean_droplet.html) - Deploy a MeiliSearch instance on DigitalOcean
+* [Deploy on Qovery](https://docs.meilisearch.com/create/how_to/qovery.html) - Deploy a MeiliSearch instance on Qovery
+* [Use Postman with MeiliSearch](https://docs.meilisearch.com/create/how_to/postman_collection.html) - https://docs.meilisearch.com/create/how_to/postman_collection.html
 
 ### Community Guides
 * [Searching with Laravel Scout and Meilisearch](https://codecourse.com/courses/searching-with-laravel-scout-and-meilisearch) -  Build a search experience for any database data by combining Laravel Scout and Meilisearch

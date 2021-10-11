@@ -62,7 +62,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [How to Deploy MeiliSearch on Laravel Forge](https://postsrc.com/posts/how-to-deploy-meilisearch-on-laravel-forge)
 * [Master Full Text Search with MeiliSearch on MinIO](https://blog.min.io/master-full-text-search-with-meilisearch-on-minio/) - How to use MinIO with MeiliSearch
 * [Serverless search with Meilisearch and Google Cloud Run](https://blog.simonireilly.com/posts/serverless-search)
-* [MeiliSearch: A definitive guide](https://blog.logrocket.com/meilisearch-a-definitive-guide/) - Wow to interact with an instance through the API client for JavaScript developers
+* [MeiliSearch: A definitive guide](https://blog.logrocket.com/meilisearch-a-definitive-guide/) - How to interact with an instance through the API client for JavaScript developers
 * [MeiliSearch under Windows](http://www.skrejci.com/2021/05/meilisearch-under-windows/) - Installing on Windows
 
 **[⬆ back to top](#table-of-contents)**
@@ -89,7 +89,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 #### Framework Integrations
 
-* [Laravel](https://github.com/laravel/scout) - official Laravel-Scout package
+* [Laravel](https://github.com/laravel/scout) - Ffficial Laravel-Scout package
 * [Ruby on Rails](https://github.com/meilisearch/meilisearch-rails)
 * [Symfony](https://github.com/meilisearch/meilisearch-symfony)
 
@@ -126,21 +126,30 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [meilisearch-aws](https://github.com/meilisearch/meilisearch-aws) - Deploy on AWS
 * [meilisearch-gcp](https://github.com/meilisearch/meilisearch-gcp) - Deploy on GCP
 * [meilisearch-kubernetes](https://github.com/meilisearch/meilisearch-kubernetes) - Deploy on Kubernetes
-* [Cloud Scripts](https://github.com/meilisearch/cloud-scripts) - a set of cloud-agnostic tools and scripts to improve deployment on the cloud
+* [Cloud Scripts](https://github.com/meilisearch/cloud-scripts) - A set of cloud-agnostic tools and scripts to improve deployment on the cloud
 
 #### Miscellaneous
-* [instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - a plugin to establish the communication between MeiliSearch and the open-source [InstantSearch](https://github.com/algolia/instantsearch.js) tools (powered by Algolia)
-* [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) - a search bar integration for all kinds of documentation
-* [docs-scraper](https://github.com/meilisearch/docs-scraper) -  a scraper tool to automatically read the content of your documentation and store it into MeiliSearch.
+* [instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - A plugin to establish the communication between MeiliSearch and the open-source [InstantSearch](https://github.com/algolia/instantsearch.js) tools (powered by Algolia)
+* [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) - A search bar integration for all kinds of documentation
+* [docs-scraper](https://github.com/meilisearch/docs-scraper) -  A scraper tool to automatically read the content of your documentation and store it into MeiliSearch.
 
 ### Community Tools
 * [AIO_MEILISEARCH](https://github.com/devtud/aio_meilisearch) - Async Wrapper over Meilisearch REST API
+* [mieli](https://github.com/irevoire/mieli) - A wrapper
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Demos
 
 *See MeiliSearch in action*
+
+* [MeiliSearch Demos](https://github.com/meilisearch/demos)
+* [MeiliSearch x MoMA](https://github.com/meilisearch/demo-MoMA) - Search through the Museum Of Modern Art Collection
+* [Search in Nobel Prizes with MeiliSearch](https://github.com/meilisearch/meilisearch-vue/tree/main/examples/nobel-prizes) - Search through all Nobel Prize winners and their details
+* [Movies Demo Using MeiliSearch and React](https://github.com/meilisearch/movies-react-demo) - A search demo based on a movies dataset
+* [MeiliSearch finds RubyGems](https://github.com/meilisearch/demo-finding-rubygems) - Find Ruby gems
+* [Finding Crates](https://github.com/meilisearch/demo-finding-crates) - Find Rust crates
+* [MeiliSearch finds PyPI packages](https://github.com/meilisearch/demo-finding-pypi) - Find Python packages
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -158,7 +167,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 
 ### Community Blog Posts
-* [MeiliSearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html) - A description
+* [MeiliSearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -166,14 +175,21 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 *Various resources*
 
+### Repositories
+* [MeiliSearch](https://github.com/meilisearch/MeiliSearch)
+* [milli](https://github.com/meilisearch/milli/) - MeiliSearch's core engine
+* [Product repository](https://github.com/meilisearch/product)
+
 ### Websites
 * [Website](https://www.meilisearch.com/) - The official MeiliSearch website
 * [Blog](https://blog.meilisearch.com/) - The official MeiliSearch blog
 * [Documentation](https://docs.meilisearch.com/) - The official MeiliSearch documentation
+* [Roadmap](https://roadmap.meilisearch.com/) - The official MeiliSearch roadmap
 
 ### Social Networks
 * [Twitter](https://twitter.com/meilisearch) - The official MeiliSearch Twitter account
 * [Linkedin](https://www.linkedin.com/company/meilisearch/) - The official MeiliSearch Linkedin account
+* [Slack](https://slack.meilisearch.com/) - The community Slack
 
 **[⬆ back to top](#table-of-contents)**
 

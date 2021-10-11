@@ -43,6 +43,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Deploy on DigitalOcean](https://docs.meilisearch.com/create/how_to/digitalocean_droplet.html) - Deploy a MeiliSearch instance on DigitalOcean
 * [Deploy on Qovery](https://docs.meilisearch.com/create/how_to/qovery.html) - Deploy a MeiliSearch instance on Qovery
 * [Use Postman with MeiliSearch](https://docs.meilisearch.com/create/how_to/postman_collection.html) - Postman collection for MeiliSearch
+* [Integrate a relevant search bar to your documentation](https://docs.meilisearch.com/create/how_to/search_bar_for_docs.html)
+* [Use HTTP/2 and SSL with MeiliSearch](https://docs.meilisearch.com/create/how_to/http2_ssl.html)
 
 ### Community Guides
 * [Searching with Laravel Scout and Meilisearch](https://codecourse.com/courses/searching-with-laravel-scout-and-meilisearch) -  Build a search experience for any database data by combining Laravel Scout and Meilisearch
@@ -117,6 +119,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 ### Websites
 * [Website](https://www.meilisearch.com/) - The official MeiliSearch website
 * [Blog](https://blog.meilisearch.com/) - The official MeiliSearch blog
+* [Documentation](https://docs.meilisearch.com/) - The official MeiliSearch documentation
 
 ### Social Networks
 * [Twitter](https://twitter.com/meilisearch) - The official MeiliSearch Twitter account
@@ -126,6 +129,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ## Other
 *Miscellaneous*
+* [Official FAQ](https://docs.meilisearch.com/faq.html)
 * [Companies & Organizations using MeiliSearch](https://github.com/meilisearch/devrel/blob/main/assets/companies.md) - A list of some of our users
 * [MeiliSearch in the media](https://github.com/meilisearch/devrel/blob/main/assets/media-appearance.md) - A list of appearances in the media
 

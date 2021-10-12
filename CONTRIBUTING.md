@@ -4,7 +4,8 @@ Your contributions are always welcome!
 
 ## Guidelines
 
-* Add one link per Pull Request
+* All changes must be made in a branch and submitted as a Pull Request (PR)
+* Add one link per PR
     * Make sure the PR title is in the format of `Add resource-name`
     * Write down the reason why the resource is awesome
 * Add the link: `* [resource-name](http://example.com/) - A short description`

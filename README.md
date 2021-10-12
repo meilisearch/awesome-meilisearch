@@ -4,7 +4,7 @@ Inspired by [Awesome Go](https://github.com/avelino/awesome-go) and [Awesome Pyt
 
 ## Contributing
 
-Please take a look at the [Contribution Guidelines](https://github.com/meilisearch/awesome-meilisearch/blob/main/CONTRIBUTING.md).
+Please take a look at the [Contribution Guidelines](https://github.com/meilisearch/awesome-meilisearch/blob/main/CONTRIBUTING.md)
 
 ## Table of Contents
 
@@ -85,7 +85,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Python](https://github.com/meilisearch/meilisearch-python)
 * [Ruby](https://github.com/meilisearch/meilisearch-ruby)
 * [Rust](https://github.com/meilisearch/meilisearch-rust)
-- [Swift](https://github.com/meilisearch/meilisearch-swift)
+* [Swift](https://github.com/meilisearch/meilisearch-swift)
 
 #### Framework Integrations
 

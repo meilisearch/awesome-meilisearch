@@ -169,7 +169,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *Read what the MeiliSearch's team has written or what others say about us*
 
 ### MeiliSearch Blog Posts
-* [Latest's release blog post](https://blog.meilisearch.com/whats-new-in-v0-22/) - version 0.22
+* [Latest's release blog post](https://blog.meilisearch.com/whats-new-in-v0-23/) - version 0.23
 
 ### Community Blog Posts
 * [MeiliSearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)

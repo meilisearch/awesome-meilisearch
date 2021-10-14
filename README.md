@@ -119,6 +119,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *Tools created by MeiliSearch or the community*
 
 ### Official Tools
+* [MeiliSearch Version Migration Script](https://github.com/meilisearch/meilisearch-migration) - a script to migrate to a newer wersion without losing data nor settings
 
 #### DevOps Tools
 

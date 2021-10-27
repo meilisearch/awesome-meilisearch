@@ -104,6 +104,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 - [VuePress](https://github.com/meilisearch/vuepress-plugin-meilisearch)
 - [Strapi](https://github.com/meilisearch/strapi-plugin-meilisearch)
+- [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch)
 
 ### Community Integrations
 * [MongoMeili](https://github.com/loophole-labs/mongomeili) - Sync MongooseJS Schemas with MeiliSearch
@@ -138,6 +139,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 ### Community Tools
 * [AIO_MEILISEARCH](https://github.com/devtud/aio_meilisearch) - Async Wrapper over Meilisearch REST API
 * [mieli](https://github.com/irevoire/mieli) - A wrapper
+* [MeiliSearch CLI](https://github.com/sanders41/meilisearch-cli) - A CLI
 
 **[⬆ back to top](#table-of-contents)**
 

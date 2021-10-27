@@ -104,7 +104,6 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 - [VuePress](https://github.com/meilisearch/vuepress-plugin-meilisearch)
 - [Strapi](https://github.com/meilisearch/strapi-plugin-meilisearch)
-- [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch)
 
 ### Community Integrations
 * [MongoMeili](https://github.com/loophole-labs/mongomeili) - Sync MongooseJS Schemas with MeiliSearch
@@ -113,6 +112,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Craft CMS](https://github.com/unionco/craft-meilisearch) - Plugin for Craft CMS 3.x
 * [Airbyte](https://airbyte.io/connectors/meilisearch) - Connector for Airbyte
 * [Statamic MeiliSearch](https://statamic.com/addons/elvenstar/statamic-meilisearch) - Driver for Statamic 3
+* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) - Plugin for Medusa
 
 **[⬆ back to top](#table-of-contents)**
 

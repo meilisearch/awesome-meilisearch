@@ -113,6 +113,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Airbyte](https://airbyte.io/connectors/meilisearch) - Connector for Airbyte
 * [Statamic MeiliSearch](https://statamic.com/addons/elvenstar/statamic-meilisearch) - Driver for Statamic 3
 * [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) - Plugin for Medusa
+* [Meili Ktr](https://github.com/JonathanxD/meili-ktr) - A multiplatform Kotlin client
 
 **[⬆ back to top](#table-of-contents)**
 

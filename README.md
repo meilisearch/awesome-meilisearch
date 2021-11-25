@@ -141,7 +141,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [AIO_MEILISEARCH](https://github.com/devtud/aio_meilisearch) - Async Wrapper over Meilisearch REST API
 * [mieli](https://github.com/irevoire/mieli) - A wrapper
 * [MeiliSearch CLI](https://github.com/sanders41/meilisearch-cli) - A CLI
-* [UIRecord](https://github.com/meilisearch/awesome-meilisearch) -  A UI to manage instances
+* [UIRecord](https://github.com/SaraVieira/uirecord) -  A UI to manage instances
 
 **[⬆ back to top](#table-of-contents)**
 

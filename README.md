@@ -90,7 +90,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 #### Framework Integrations
 
-* [Laravel](https://github.com/laravel/scout) - Ffficial Laravel-Scout package
+* [Laravel](https://github.com/laravel/scout) - Official Laravel-Scout package
 * [Ruby on Rails](https://github.com/meilisearch/meilisearch-rails)
 * [Symfony](https://github.com/meilisearch/meilisearch-symfony)
 

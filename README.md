@@ -150,12 +150,12 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *See MeiliSearch in action*
 
 * [MeiliSearch Demos](https://github.com/meilisearch/demos)
-* [MeiliSearch x MoMA](https://github.com/meilisearch/demo-MoMA) - Search through the Museum Of Modern Art Collection
-* [Search in Nobel Prizes with MeiliSearch](https://github.com/meilisearch/meilisearch-vue/tree/main/examples/nobel-prizes) - Search through all Nobel Prize winners and their details
-* [Movies Demo Using MeiliSearch and React](https://github.com/meilisearch/movies-react-demo) - A search demo based on a movies dataset
-* [MeiliSearch finds RubyGems](https://github.com/meilisearch/demo-finding-rubygems) - Find Ruby gems
-* [Finding Crates](https://github.com/meilisearch/demo-finding-crates) - Find Rust crates
-* [MeiliSearch finds PyPI packages](https://github.com/meilisearch/demo-finding-pypi) - Find Python packages
+* [MeiliSearch x MoMA](https://github.com/meilisearch/demos/tree/main/src/MoMA) - Search through the Museum Of Modern Art Collection
+* [Search in Nobel Prizes with MeiliSearch](https://github.com/meilisearch/demos/tree/main/src/nobel-prizes) - Search through all Nobel Prize winners and their details
+* [MeiliSearch finds RubyGems](https://github.com/meilisearch/demos/tree/main/src/finding-rubygems) - Find Ruby gems
+* [Finding Crates](https://github.com/meilisearch/demos/tree/main/src/finding-crates) - Find Rust crates
+* [MeiliSearch finds PyPI packages](https://github.com/meilisearch/demos/tree/main/src/finding-pypi) - Find Python packages
+* [Search in world cities](https://github.com/meilisearch/demos/tree/main/src/geo-javascript) - Play with Geosearch features and find info about large cities
 
 **[⬆ back to top](#table-of-contents)**
 

@@ -93,7 +93,6 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Laravel](https://github.com/laravel/scout) - Official Laravel-Scout package
 * [Ruby on Rails](https://github.com/meilisearch/meilisearch-rails)
 * [Symfony](https://github.com/meilisearch/meilisearch-symfony)
-* [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) - Unofficial Yii2 Framework Meilisearch Extension
 
 #### Front-End Integrations
 
@@ -115,6 +114,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Statamic MeiliSearch](https://statamic.com/addons/elvenstar/statamic-meilisearch) - Driver for Statamic 3
 * [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) - Plugin for Medusa
 * [Meili Ktr](https://github.com/JonathanxD/meili-ktr) - A multiplatform Kotlin client
+* [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) - Yii2 framework extension
 
 **[⬆ back to top](#table-of-contents)**
 

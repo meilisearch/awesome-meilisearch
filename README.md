@@ -93,6 +93,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Laravel](https://github.com/laravel/scout) - Official Laravel-Scout package
 * [Ruby on Rails](https://github.com/meilisearch/meilisearch-rails)
 * [Symfony](https://github.com/meilisearch/meilisearch-symfony)
+* [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) - Unofficial Yii2 Framework Meilisearch Extension
 
 #### Front-End Integrations
 

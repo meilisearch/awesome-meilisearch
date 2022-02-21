@@ -65,7 +65,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [MeiliSearch: A definitive guide](https://blog.logrocket.com/meilisearch-a-definitive-guide/) - How to interact with an instance through the API client for JavaScript developers
 * [MeiliSearch under Windows](http://www.skrejci.com/2021/05/meilisearch-under-windows/) - Installing on Windows
 * [A Comprehensive Guide to MeiliSearch](https://www.atatus.com/blog/a-comprehensive-guide-to-meilisearch/)
-* [How to add Search in Rails using Meilisearch]https://gorails.com/episodes/how-to-use-meilisearch-rails
+* [How to add Search in Rails using Meilisearch](https://gorails.com/episodes/how-to-use-meilisearch-rails)
 
 **[⬆ back to top](#table-of-contents)**
 

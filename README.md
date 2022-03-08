@@ -116,6 +116,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) - Plugin for Medusa
 * [Meili Ktr](https://github.com/JonathanxD/meili-ktr) - A multiplatform Kotlin client
 * [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) - Yii2 framework extension
+* [FastAPI](https://github.com/sanders41/meilisearch-fastapi) - Provides FastAPI routes for interacting with Meilisarch
 
 **[⬆ back to top](#table-of-contents)**
 

@@ -117,6 +117,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Meili Ktr](https://github.com/JonathanxD/meili-ktr) - A multiplatform Kotlin client
 * [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) - Yii2 framework extension
 * [Async Python SDK](https://github.com/sanders41/meilisearch-python-async) - An asynchronous Python client
+* [FastAPI](https://github.com/sanders41/meilisearch-fastapi) - Provides FastAPI routes for interacting with Meilisarch
 
 **[⬆ back to top](#table-of-contents)**
 

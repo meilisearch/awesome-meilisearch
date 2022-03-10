@@ -14,7 +14,7 @@ Your contributions are always welcome!
     * Add the section description
     * Add the section title to the Table of Contents
 * Search previous Pull Requests or Issues before making a new one, as yours may be a duplicate
-* Don't mention `MeiliSearch` in the description as it's implied
+* Don't mention `Meilisearch` in the description as it's implied
 * Check your spelling and grammar
 * Remove any trailing whitespace
 * Description and content must be in English

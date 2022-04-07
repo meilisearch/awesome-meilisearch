@@ -66,6 +66,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Meilisearch under Windows](http://www.skrejci.com/2021/05/meilisearch-under-windows/) - Installing on Windows
 * [A Comprehensive Guide to Meilisearch](https://www.atatus.com/blog/a-comprehensive-guide-to-meilisearch/)
 * [How to add Search in Rails using Meilisearch](https://gorails.com/episodes/how-to-use-meilisearch-rails)
+* [Integrate Rails, React and MeiliSearch using Docker](https://dev.to/rodrigoodhin/integrate-rails-react-and-meilisearch-using-docker-52ho)
 
 **[⬆ back to top](#table-of-contents)**
 

@@ -147,6 +147,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [mieli](https://github.com/irevoire/mieli) - A wrapper
 * [Meilisearch CLI](https://github.com/sanders41/meilisearch-cli) - A CLI
 * [UIRecord](https://github.com/SaraVieira/uirecord) -  A UI to manage instances
+* [Meilisearch Github Action](https://github.com/moy2010/meilisearch-github-action) - Start a Meilisearch server from your GH Actions with this action.
 
 **[⬆ back to top](#table-of-contents)**
 

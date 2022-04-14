@@ -120,6 +120,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) - Yii2 framework extension
 * [Async Python SDK](https://github.com/sanders41/meilisearch-python-async) - An asynchronous Python client
 * [FastAPI](https://github.com/sanders41/meilisearch-fastapi) - Provides FastAPI routes for interacting with Meilisarch
+* [Elixir](https://github.com/robottokauf3/meilisearch-elixir) - A lightweight Meilisearch client for Elixir.
 
 **[⬆ back to top](#table-of-contents)**
 

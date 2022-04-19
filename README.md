@@ -67,6 +67,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [A Comprehensive Guide to Meilisearch](https://www.atatus.com/blog/a-comprehensive-guide-to-meilisearch/)
 * [How to add Search in Rails using Meilisearch](https://gorails.com/episodes/how-to-use-meilisearch-rails)
 * [Integrate Rails, React and MeiliSearch using Docker](https://dev.to/rodrigoodhin/integrate-rails-react-and-meilisearch-using-docker-52ho)
+* [A series of guide on how to use Meilisearch with Laravel Scout](https://serversideup.net/search/?type=posts&tags=meilisearch+laravel)
 
 **[⬆ back to top](#table-of-contents)**
 

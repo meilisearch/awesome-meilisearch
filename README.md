@@ -148,6 +148,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [mieli](https://github.com/irevoire/mieli) - A wrapper
 * [Meilisearch CLI](https://github.com/sanders41/meilisearch-cli) - A CLI
 * [UIRecord](https://github.com/SaraVieira/uirecord) -  A UI to manage instances
+* [meilisearch-prompt](https://github.com/leopku/meilisearch-prompt) - A command-line kit to manage a Meilisearch server
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -181,7 +182,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *Read what the Meilisearch's team has written or what others say about us*
 
 ### Meilisearch Blog Posts
-* [Latest's release blog post](https://blog.meilisearch.com/whats-new-in-v0-23/) - version 0.23
+* [Latest's release blog post](https://blog.meilisearch.com/whats-new-in-v0-26/) - version 0.26
 
 ### Community Blog Posts
 * [Meilisearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)

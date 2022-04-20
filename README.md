@@ -67,6 +67,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [A Comprehensive Guide to Meilisearch](https://www.atatus.com/blog/a-comprehensive-guide-to-meilisearch/)
 * [How to add Search in Rails using Meilisearch](https://gorails.com/episodes/how-to-use-meilisearch-rails)
 * [Integrate Rails, React and MeiliSearch using Docker](https://dev.to/rodrigoodhin/integrate-rails-react-and-meilisearch-using-docker-52ho)
+* [A series of guide on how to use Meilisearch with Laravel Scout](https://serversideup.net/search/?type=posts&tags=meilisearch+laravel)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -115,10 +116,12 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Airbyte](https://airbyte.io/connectors/meilisearch) - Connector for Airbyte
 * [Statamic Meilisearch](https://statamic.com/addons/elvenstar/statamic-meilisearch) - Driver for Statamic 3
 * [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) - Plugin for Medusa
+* [Kotlin](https://github.com/nemoengineering/meilisearch-kotlin) - A Kotlin wrapper
 * [Meili Ktr](https://github.com/JonathanxD/meili-ktr) - A multiplatform Kotlin client
 * [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) - Yii2 framework extension
 * [Async Python SDK](https://github.com/sanders41/meilisearch-python-async) - An asynchronous Python client
 * [FastAPI](https://github.com/sanders41/meilisearch-fastapi) - Provides FastAPI routes for interacting with Meilisarch
+* [Elixir](https://github.com/robottokauf3/meilisearch-elixir) - A lightweight Elixir client
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -147,7 +150,9 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [mieli](https://github.com/irevoire/mieli) - A wrapper
 * [Meilisearch CLI](https://github.com/sanders41/meilisearch-cli) - A CLI
 * [UIRecord](https://github.com/SaraVieira/uirecord) -  A UI to manage instances
+* [meilisearch-prompt](https://github.com/leopku/meilisearch-prompt) - A command-line kit to manage a Meilisearch server
 * [Meilisearch Github Action](https://github.com/moy2010/meilisearch-github-action) - Start a Meilisearch server from your GH Actions with this action.
+
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -181,7 +186,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *Read what the Meilisearch's team has written or what others say about us*
 
 ### Meilisearch Blog Posts
-* [Latest's release blog post](https://blog.meilisearch.com/whats-new-in-v0-23/) - version 0.23
+* [Latest's release blog post](https://blog.meilisearch.com/whats-new-in-v0-26/) - version 0.26
 
 ### Community Blog Posts
 * [Meilisearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)

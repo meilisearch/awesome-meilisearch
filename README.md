@@ -96,6 +96,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Laravel](https://github.com/laravel/scout) - Official Laravel-Scout package
 * [Ruby on Rails](https://github.com/meilisearch/meilisearch-rails)
 * [Symfony](https://github.com/meilisearch/meilisearch-symfony)
+* [Nuxt](https://github.com/xlanex6/nuxt-meilisearch)
 
 #### Front-End Integrations
 
@@ -122,6 +123,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Async Python SDK](https://github.com/sanders41/meilisearch-python-async) - An asynchronous Python client
 * [FastAPI](https://github.com/sanders41/meilisearch-fastapi) - Provides FastAPI routes for interacting with Meilisarch
 * [Elixir](https://github.com/robottokauf3/meilisearch-elixir) - A lightweight Elixir client
+* [Nuxt](https://github.com/xlanex6/nuxt-meilisearch) - A Nuxt 3 module
+
 
 **[⬆ back to top](#table-of-contents)**
 

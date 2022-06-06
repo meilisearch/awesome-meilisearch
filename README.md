@@ -25,7 +25,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 - [Resources](#resources)
     - [Websites](#websites)
     - [Social Networks](#social-networks)
- - [Other](#other)
+- [Other](#other)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -121,7 +121,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Meili Ktr](https://github.com/JonathanxD/meili-ktr) - A multiplatform Kotlin client
 * [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) - Yii2 framework extension
 * [Async Python SDK](https://github.com/sanders41/meilisearch-python-async) - An asynchronous Python client
-* [FastAPI](https://github.com/sanders41/meilisearch-fastapi) - Provides FastAPI routes for interacting with Meilisarch
+* [FastAPI](https://github.com/sanders41/meilisearch-fastapi) - Provides FastAPI routes for interacting with Meilisearch
 * [Elixir](https://github.com/robottokauf3/meilisearch-elixir) - A lightweight Elixir client
 * [Nuxt](https://github.com/xlanex6/nuxt-meilisearch) - A Nuxt 3 module
 
@@ -133,7 +133,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *Tools created by Meilisearch or the community*
 
 ### Official Tools
-* [Meilisearch Version Migration Script](https://github.com/meilisearch/meilisearch-migration) - A script to migrate to a newer wersion without losing data nor settings
+* [Meilisearch Version Migration Script](https://github.com/meilisearch/meilisearch-migration) - A script to migrate to a newer version without losing data nor settings
 
 #### DevOps Tools
 
@@ -154,7 +154,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Meilisearch CLI](https://github.com/sanders41/meilisearch-cli) - A CLI
 * [UIRecord](https://github.com/SaraVieira/uirecord) -  A UI to manage instances
 * [meilisearch-prompt](https://github.com/leopku/meilisearch-prompt) - A command-line kit to manage a Meilisearch server
-* [Meilisearch Github Action](https://github.com/moy2010/meilisearch-github-action) - Start a Meilisearch server from your GH Actions with this action.
+* [Meilisearch GitHub Action](https://github.com/moy2010/meilisearch-github-action) - Start a Meilisearch server from your GH Actions with this action.
 
 
 **[⬆ back to top](#table-of-contents)**
@@ -179,7 +179,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * [Rawkode Live: Introduction to Meilisearch](https://www.youtube.com/watch?v=SJl2UWfy1nk)
 * [Strapi conf 2021: Integrate open-source search into your Strapi project](https://www.youtube.com/watch?v=brG3738V2bU)
-* [Strapi webinar: Modern Search Solutions for the Jamstack with Meilisearch](https://www.youtube.com/watch?v=mO_I02ZAfmM&t=4s) - 
+* [Strapi webinar: Modern Search Solutions for the Jamstack with Meilisearch](https://www.youtube.com/watch?v=mO_I02ZAfmM&t=4s) -
 
 
 **[⬆ back to top](#table-of-contents)**
@@ -213,7 +213,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Social Networks
 * [Twitter](https://twitter.com/meilisearch) - The official Meilisearch Twitter account
-* [Linkedin](https://www.linkedin.com/company/meilisearch/) - The official Meilisearch Linkedin account
+* [LinkedIn](https://www.linkedin.com/company/meilisearch/) - The official Meilisearch LinkedIn account
 * [Slack](https://slack.meilisearch.com/) - The community Slack
 
 **[⬆ back to top](#table-of-contents)**

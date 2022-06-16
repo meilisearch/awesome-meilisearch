@@ -37,7 +37,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 #### Basics
 * [Quick Start](https://docs.meilisearch.com/learn/getting_started/quick_start.html)
-* [Installation](https://docs.meilisearch.com/learn/getting_started/installation.html)
+* [Installation](https://docs.meilisearch.com/learn/getting_started/quick_start.html#setup-and-installation)
 * [Update](https://docs.meilisearch.com/create/how_to/updating.html) - Update to the latest Meilisearch version
 * [Run Meilisearch in production](https://docs.meilisearch.com/create/how_to/running_production.html)
 
@@ -46,6 +46,9 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Deploy on GCP](https://docs.meilisearch.com/create/how_to/gcp.html) - Deploy a Meilisearch instance on Google Cloud Platform (GCP) Compute Engine
 * [Deploy on DigitalOcean](https://docs.meilisearch.com/create/how_to/digitalocean_droplet.html) - Deploy a Meilisearch instance on DigitalOcean
 * [Deploy on Qovery](https://docs.meilisearch.com/create/how_to/qovery.html) - Deploy a Meilisearch instance on Qovery
+* [Deploy on Azure](https://docs.meilisearch.com/learn/cookbooks/azure.html) - Deploy a Meilisearch instance on Azure
+* [Deploy on Koyeb](https://docs.meilisearch.com/learn/cookbooks/koyeb.html) - Deploy a Meilisearch instance on Koyeb
+
 
 #### Miscellaneous
 * [Use Postman with Meilisearch](https://docs.meilisearch.com/create/how_to/postman_collection.html) - Postman collection for Meilisearch
@@ -68,6 +71,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [How to add Search in Rails using Meilisearch](https://gorails.com/episodes/how-to-use-meilisearch-rails)
 * [Integrate Rails, React and MeiliSearch using Docker](https://dev.to/rodrigoodhin/integrate-rails-react-and-meilisearch-using-docker-52ho)
 * [A series of guide on how to use Meilisearch with Laravel Scout](https://serversideup.net/search/?type=posts&tags=meilisearch+laravel)
+* [How To Deploy and Configure Meilisearch on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-and-configure-meilisearch-on-ubuntu-22-04)
+* [How To Run a Meilisearch Frontend Using InstantSearch on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-run-a-meilisearch-frontend-using-instantsearch-on-ubuntu-22-04)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -96,7 +101,6 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Laravel](https://github.com/laravel/scout) - Official Laravel-Scout package
 * [Ruby on Rails](https://github.com/meilisearch/meilisearch-rails)
 * [Symfony](https://github.com/meilisearch/meilisearch-symfony)
-* [Nuxt](https://github.com/xlanex6/nuxt-meilisearch)
 
 #### Front-End Integrations
 
@@ -108,6 +112,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 - [VuePress](https://github.com/meilisearch/vuepress-plugin-meilisearch)
 - [Strapi](https://github.com/meilisearch/strapi-plugin-meilisearch)
+- [Gatsby](https://github.com/meilisearch/gatsby-plugin-meilisearch/)
+- [Firestore](https://github.com/meilisearch/firestore-meilisearch/)
 
 ### Community Integrations
 * [MongoMeili](https://github.com/loophole-labs/mongomeili) - Sync MongooseJS Schemas with Meilisearch
@@ -124,6 +130,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [FastAPI](https://github.com/sanders41/meilisearch-fastapi) - Provides FastAPI routes for interacting with Meilisearch
 * [Elixir](https://github.com/robottokauf3/meilisearch-elixir) - A lightweight Elixir client
 * [Nuxt](https://github.com/xlanex6/nuxt-meilisearch) - A Nuxt 3 module
+* [cbMeilisearch](https://github.com/michaelborn/cbMeilisearch) - An API wrapper written in CFML for the ColdBox platform
 
 
 **[⬆ back to top](#table-of-contents)**
@@ -170,6 +177,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Finding Crates](https://github.com/meilisearch/demos/tree/main/src/finding-crates) - Find Rust crates
 * [Meilisearch finds PyPI packages](https://github.com/meilisearch/demos/tree/main/src/finding-pypi) - Find Python packages
 * [Search in world cities](https://github.com/meilisearch/demos/tree/main/src/geo-javascript) - Play with Geosearch features and find info about large cities
+* [Tenant token demo](https://github.com/meilisearch/demos/tree/main/src/tenant-token) - Learn how to use the multi-tenant token feature
+* [Typo tolerance demo](https://github.com/meilisearch/demos/tree/main/src/typo-tolerance) - Play with the typo tolerance feature and browse through a book collection
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -189,7 +198,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 *Read what the Meilisearch's team has written or what others say about us*
 
 ### Meilisearch Blog Posts
-* [Latest's release blog post](https://blog.meilisearch.com/whats-new-in-v0-26/) - version 0.26
+* [Latest's release blog post](https://blog.meilisearch.com/whats-new-in-v0-27/) - version 0.27
 
 ### Community Blog Posts
 * [Meilisearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)
@@ -221,8 +230,5 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 ## Other
 *Miscellaneous*
 * [Official FAQ](https://docs.meilisearch.com/faq.html)
-* [Companies & Organizations using Meilisearch](https://github.com/meilisearch/devrel/blob/main/assets/companies.md) - A list of some of our users
-* [Meilisearch in the media](https://github.com/meilisearch/devrel/blob/main/assets/media-appearance.md) - A list of appearances in the media
-
 
 **[⬆ back to top](#table-of-contents)**

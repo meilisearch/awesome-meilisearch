@@ -162,8 +162,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [UIRecord](https://github.com/SaraVieira/uirecord) -  A UI to manage instances
 * [meilisearch-prompt](https://github.com/leopku/meilisearch-prompt) - A command-line kit to manage a Meilisearch server
 * [Meilisearch GitHub Action](https://github.com/moy2010/meilisearch-github-action) - Start a Meilisearch server from your GH Actions with this action.
-* [Laravel MeiliTools](https://github.com/dwarfhq/laravel-meilitools) - Additional tools for Laravel Scout 9+ integration with Meilisearch
-
+* [Laravel MeiliTools](https://github.com/dwarfhq/laravel-meilitools) - Additional tools for Laravel Scout 9+ integration
 
 **[⬆ back to top](#table-of-contents)**
 

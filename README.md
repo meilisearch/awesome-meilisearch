@@ -10,7 +10,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 [Hacktoberfest](https://hacktoberfest.com) is a celebration of the open-source community. This year, and for the third time in a row, Meilisearch is participating in this fantastic event.
 
-You’d like to contribute? Don’t hesitate to check out the Hacktoberfest specific [Contribution Guidelines.](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md)
+You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest specific Contribution Guidelines.](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md)
 
 ## Table of Contents
 

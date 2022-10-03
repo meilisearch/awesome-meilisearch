@@ -162,6 +162,7 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 * [docs-scraper](https://github.com/meilisearch/docs-scraper) -  A scraper tool to automatically read the content of your documentation and store it into Meilisearch.
 
 ### Community Tools
+* [Meilisearch-UI](https://github.com/lrvinye/meilisearch-ui) -  A pretty UI for managing your meilisearch instances
 * [AIO_MEILISEARCH](https://github.com/devtud/aio_meilisearch) - Async Wrapper over Meilisearch REST API
 * [mieli](https://github.com/irevoire/mieli) - A wrapper
 * [Meilisearch CLI](https://github.com/sanders41/meilisearch-cli) - A CLI

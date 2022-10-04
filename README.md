@@ -31,6 +31,7 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 - [Resources](#resources)
     - [Websites](#websites)
     - [Social Networks](#social-networks)
+- [Awesome use of Meilisearch](#awesome-use-of-meilisearch)
 - [Other](#other)
 
 **[⬆ back to top](#table-of-contents)**
@@ -231,6 +232,10 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 * [Twitter](https://twitter.com/meilisearch) - The official Meilisearch Twitter account
 * [LinkedIn](https://www.linkedin.com/company/meilisearch/) - The official Meilisearch LinkedIn account
 * [Slack](https://slack.meilisearch.com/) - The community Slack
+
+**[⬆ back to top](#table-of-contents)**
+
+## Awesome use of Meilisearch
 
 **[⬆ back to top](#table-of-contents)**
 

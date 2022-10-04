@@ -31,7 +31,7 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 - [Resources](#resources)
     - [Websites](#websites)
     - [Social Networks](#social-networks)
-- [Awesome usage of Meilisearch](#awesome-usage-of-meilisearch)
+- [Awesome use of Meilisearch](#awesome-use-of-meilisearch)
 - [Other](#other)
 
 **[⬆ back to top](#table-of-contents)**
@@ -235,7 +235,7 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 
 **[⬆ back to top](#table-of-contents)**
 
-## Awesome usage of Meilisearch
+## Awesome use of Meilisearch
 
 **[⬆ back to top](#table-of-contents)**
 

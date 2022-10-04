@@ -236,6 +236,7 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 **[⬆ back to top](#table-of-contents)**
 
 ## Awesome use of Meilisearch
+* [BandsNear](https://www.bandsnear.com/) - Platform to help users to quickly find events using their Spotify data.
 
 **[⬆ back to top](#table-of-contents)**
 

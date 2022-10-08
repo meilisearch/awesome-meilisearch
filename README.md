@@ -171,6 +171,7 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 * [Meilisearch GitHub Action](https://github.com/moy2010/meilisearch-github-action) - Start a Meilisearch server from your GH Actions with this action.
 * [Laravel MeiliTools](https://github.com/dwarfhq/laravel-meilitools) - Additional tools for Laravel Scout 9+ integration
 * [Meilisearch-UI](https://github.com/lrvinye/meilisearch-ui) -  A UI for managing Meilisearch instances
+* [Meiliadmin](https://github.com/kaermorchen/meiliadmin) - Dashboard for Meilisearch
 
 **[⬆ back to top](#table-of-contents)**
 

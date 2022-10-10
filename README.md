@@ -210,12 +210,13 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 
 ### Community Blog Posts
 * [Meilisearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)
+* [What is DevOps ?](https://www.linkedin.com/pulse/what-devops-kirtan-kushwah/) - Introduction to DevOps
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Resources
 
-*Various resources*
+* [Cloud Fundamentals](https://drive.google.com/file/d/19B-TiRI-unx5j-8U2uThEhKH6DtUZi0M/view?usp=sharing) - Introduction to Cloud Computing
 
 ### Repositories
 * [Meilisearch](https://github.com/meilisearch/Meilisearch)

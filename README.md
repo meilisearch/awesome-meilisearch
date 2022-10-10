@@ -166,11 +166,12 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 * [AIO_MEILISEARCH](https://github.com/devtud/aio_meilisearch) - Async Wrapper over Meilisearch REST API
 * [mieli](https://github.com/irevoire/mieli) - A wrapper
 * [Meilisearch CLI](https://github.com/sanders41/meilisearch-cli) - A CLI
-* [UIRecord](https://github.com/SaraVieira/uirecord) -  A UI to manage instances
 * [meilisearch-prompt](https://github.com/leopku/meilisearch-prompt) - A command-line kit to manage a Meilisearch server
-* [Meilisearch GitHub Action](https://github.com/moy2010/meilisearch-github-action) - Start a Meilisearch server from your GH Actions with this action.
+* [Meilisearch GitHub Action](https://github.com/moy2010/meilisearch-github-action) - Start a Meilisearch server from your GH Actions with this action
 * [Laravel MeiliTools](https://github.com/dwarfhq/laravel-meilitools) - Additional tools for Laravel Scout 9+ integration
-* [Meilisearch-UI](https://github.com/lrvinye/meilisearch-ui) -  A UI for managing Meilisearch instances
+* [UIRecord](https://github.com/SaraVieira/uirecord) -  A UI to manage instances
+* [Meilisearch-UI](https://github.com/lrvinye/meilisearch-ui) -  A UI to manage instances
+* [Meiliadmin](https://github.com/kaermorchen/meiliadmin) - A dashboard for Meilisearch
 
 **[⬆ back to top](#table-of-contents)**
 

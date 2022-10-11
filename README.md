@@ -238,6 +238,7 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 
 ## Awesome use of Meilisearch
 * [BandsNear](https://www.bandsnear.com/) - Platform to help users to quickly find events using their Spotify data.
+* [CompareDial](https://www.comparedial.com/) - Compare the best mobile phone deals.
 
 **[⬆ back to top](#table-of-contents)**
 

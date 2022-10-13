@@ -64,6 +64,7 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 
 ### Community Guides
 * [Searching with Laravel Scout and Meilisearch](https://codecourse.com/courses/searching-with-laravel-scout-and-meilisearch) -  Build a search experience for any database data by combining Laravel Scout and Meilisearch
+* [Getting started with Laravel Scout and Meilisearch](https://laravel-news.com/getting-started-laravel-scout-meilisearch/) - A tutorial on integrating Meilisearch with Laravel 9 and Laravel Scout
 * [Setting up Meilisearch on Production Ubuntu for Laravel project](https://postsrc.com/posts/setting-up-meilisearch-on-production-ubuntu-for-laravel-project) - How to set up Meilisearch for a Laravel project
 * [Adding Search to Rails with Meilisearch](https://blog.cloud66.com/adding-search-to-rails-with-meilisearch/) - How to integrate Meilisearch in a Rails app
 * [How to Install a Specific Version of Meilisearch](https://medium.com/@biarosenbaum/how-to-install-a-specific-version-of-meilisearch-2552bee8c351)

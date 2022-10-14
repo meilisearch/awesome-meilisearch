@@ -189,6 +189,7 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 * [Search in world cities](https://github.com/meilisearch/demos/tree/main/src/geo-javascript) - Play with Geosearch features and find info about large cities
 * [Tenant token demo](https://github.com/meilisearch/demos/tree/main/src/tenant-token) - Learn how to use the multi-tenant token feature
 * [Typo tolerance demo](https://github.com/meilisearch/demos/tree/main/src/typo-tolerance) - Play with the typo tolerance feature and browse through a book collection
+* [Matching Strategy]( https://matching-strategy.meilisearch.com) - This demo presents different matching strategies in action
 
 **[⬆ back to top](#table-of-contents)**
 

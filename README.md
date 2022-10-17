@@ -139,7 +139,7 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 * [Elixir](https://github.com/robottokauf3/meilisearch-elixir) - A lightweight Elixir client
 * [Nuxt](https://github.com/xlanex6/nuxt-meilisearch) - A Nuxt 3 module
 * [cbMeilisearch](https://github.com/michaelborn/cbMeilisearch) - An API wrapper written in CFML for the ColdBox platform
-* [Nest-MeiliSearch](https://github.com/Console45/nest-meilisearch) - A nest js wrapper for the meilisearch-js library
+* [Nest-MeiliSearch](https://github.com/Console45/nest-meilisearch) - A NestJS wrapper for the [JavaScript integration](https://github.com/meilisearch/meilisearch-js)
 
 
 **[⬆ back to top](#table-of-contents)**

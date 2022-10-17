@@ -1,6 +1,14 @@
-# Awesome Meilisearch
-A curated list of awesome Meilisearch resources\
-Inspired by [Awesome Go](https://github.com/avelino/awesome-go) and [Awesome Python](https://github.com/vinta/awesome-python)
+<p align="center">
+  <img width="250" align="center" src="./assets/logo.svg" alt="logo of awesome-meilisearch repository">
+</p>
+
+<h2 align="center">Awesome Meilisearch</h2>
+
+<p align="center">
+A curated list of awesome Meilisearch resources
+<br />
+Inspired by <a href="https://github.com/avelino/awesome-go">Awesome Go</a> and <a href="https://github.com/vinta/awesome-python">Awesome Python</a>
+</p>
 
 ## Contributing
 

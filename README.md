@@ -81,6 +81,7 @@ You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest spe
 * [A series of guide on how to use Meilisearch with Laravel Scout](https://serversideup.net/search/?type=posts&tags=meilisearch+laravel)
 * [How To Deploy and Configure Meilisearch on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-and-configure-meilisearch-on-ubuntu-22-04)
 * [How To Run a Meilisearch Frontend Using InstantSearch on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-run-a-meilisearch-frontend-using-instantsearch-on-ubuntu-22-04)
+* [We Built A Search Engine With MeiliSearch and JavaScript: Here's How You Can Too](https://hackernoon.com/we-built-a-search-engine-with-meilisearch-and-javascript-heres-how-you-can-too-zz2d3zae)
 
 **[⬆ back to top](#table-of-contents)**
 

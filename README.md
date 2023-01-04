@@ -6,12 +6,6 @@ Inspired by [Awesome Go](https://github.com/avelino/awesome-go) and [Awesome Pyt
 
 Please take a look at the [Contribution Guidelines](https://github.com/meilisearch/awesome-meilisearch/blob/main/CONTRIBUTING.md)
 
-## It’s Hacktoberfest 2022 @Meilisearch
-
-[Hacktoberfest](https://hacktoberfest.com) is a celebration of the open-source community. This year, and for the third time in a row, Meilisearch is participating in this fantastic event.
-
-You’d like to contribute? Don’t hesitate to check out the [Hacktoberfest specific Contribution Guidelines.](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md)
-
 ## Table of Contents
 
 - [Guides, Tutorials and Courses](#guides-tutorials-and-courses)

@@ -135,9 +135,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [cbMeilisearch](https://github.com/michaelborn/cbMeilisearch) - An API wrapper written in CFML for the ColdBox platform
 * [Nest-MeiliSearch](https://github.com/Console45/nest-meilisearch) - A NestJS wrapper for the [JavaScript integration](https://github.com/meilisearch/meilisearch-js)
 * [simple-meili-java](https://mavenlibs.com/maven/dependency/io.github.raissi/simple-meili-java) - A simple Java client
-* [Plugin for NodeBB](https://github.com/oplik0/nodebb-plugin-meilisearch) - Plugin for NodeBB
-
-
+* [Plugin for NodeBB](https://github.com/oplik0/nodebb-plugin-meilisearch)
 **[⬆ back to top](#table-of-contents)**
 
 ## Tools

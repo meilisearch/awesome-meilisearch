@@ -229,7 +229,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 ### Social Networks
 * [Twitter](https://twitter.com/meilisearch) - The official Meilisearch Twitter account
 * [LinkedIn](https://www.linkedin.com/company/meilisearch/) - The official Meilisearch LinkedIn account
-* [Slack](https://slack.meilisearch.com/) - The community Slack
+* [Discord](https://discord.gg/meilisearch) - The community on Discord
 
 **[⬆ back to top](#table-of-contents)**
 

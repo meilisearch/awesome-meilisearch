@@ -59,6 +59,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 ### Community Guides
 * [Searching with Laravel Scout and Meilisearch](https://codecourse.com/courses/searching-with-laravel-scout-and-meilisearch) -  Build a search experience for any database data by combining Laravel Scout and Meilisearch
 * [Getting started with Laravel Scout and Meilisearch](https://laravel-news.com/getting-started-laravel-scout-meilisearch/) - A tutorial on integrating Meilisearch with Laravel 9 and Laravel Scout
+* [A series of guide on how to use Meilisearch with Laravel Scout](https://serversideup.net/search/?type=posts&tags=meilisearch+laravel)
+* [How to Build a Live Search using Laravel, Livewire, and Meilisearch](https://www.iankumu.com/blog/laravel-search/)
 * [Setting up Meilisearch on Production Ubuntu for Laravel project](https://postsrc.com/posts/setting-up-meilisearch-on-production-ubuntu-for-laravel-project) - How to set up Meilisearch for a Laravel project
 * [Adding Search to Rails with Meilisearch](https://blog.cloud66.com/adding-search-to-rails-with-meilisearch/) - How to integrate Meilisearch in a Rails app
 * [How to Install a Specific Version of Meilisearch](https://medium.com/@biarosenbaum/how-to-install-a-specific-version-of-meilisearch-2552bee8c351)
@@ -72,9 +74,10 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [A Comprehensive Guide to Meilisearch](https://www.atatus.com/blog/a-comprehensive-guide-to-meilisearch/)
 * [How to add Search in Rails using Meilisearch](https://gorails.com/episodes/how-to-use-meilisearch-rails)
 * [Integrate Rails, React and MeiliSearch using Docker](https://dev.to/rodrigoodhin/integrate-rails-react-and-meilisearch-using-docker-52ho)
-* [A series of guide on how to use Meilisearch with Laravel Scout](https://serversideup.net/search/?type=posts&tags=meilisearch+laravel)
 * [How To Deploy and Configure Meilisearch on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-deploy-and-configure-meilisearch-on-ubuntu-22-04)
 * [How To Run a Meilisearch Frontend Using InstantSearch on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-run-a-meilisearch-frontend-using-instantsearch-on-ubuntu-22-04)
+* [How to use Meilisearch with Lando](https://glennjacobs.com/how-to-use-meilisearch-with-lando)
+* [Deploy Meilisearch into Azure Container Apps](https://bitoftech.net/2022/10/09/deploy-meilisearch-into-azure-container-apps/)
 
 **[⬆ back to top](#table-of-contents)**
 

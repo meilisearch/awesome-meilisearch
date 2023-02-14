@@ -168,10 +168,11 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [meilisearch-prompt](https://github.com/leopku/meilisearch-prompt) - A command-line kit to manage a Meilisearch server
 * [Meilisearch GitHub Action](https://github.com/moy2010/meilisearch-github-action) - Start a Meilisearch server from your GH Actions with this action
 * [Laravel MeiliTools](https://github.com/dwarfhq/laravel-meilitools) - Additional tools for Laravel Scout 9+ integration
+* [Laravel Site Search](https://github.com/spatie/laravel-site-search/) - Create a full-text search index by crawling your site
 * [UIRecord](https://github.com/SaraVieira/uirecord) -  A UI to manage instances
 * [Meilisearch-UI](https://github.com/riccox/meilisearch-ui) -  A UI to manage instances
+* [MeiliSearch Manager](https://github.com/Bwilliamson55/meili-manager) - A UI to manage instances
 * [Meiliadmin](https://github.com/kaermorchen/meiliadmin) - A dashboard for Meilisearch
-* [Laravel Site Search](https://github.com/spatie/laravel-site-search/) - Create a full-text search index by crawling your site
 
 **[⬆ back to top](#table-of-contents)**
 

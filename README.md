@@ -139,6 +139,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Nest-MeiliSearch](https://github.com/Console45/nest-meilisearch) - A NestJS wrapper for the [JavaScript integration](https://github.com/meilisearch/meilisearch-js)
 * [simple-meili-java](https://mavenlibs.com/maven/dependency/io.github.raissi/simple-meili-java) - A simple Java client
 * [Plugin for NodeBB](https://github.com/oplik0/nodebb-plugin-meilisearch)
+* [Meilisearch Light PHP Client](https://github.com/shevabam/meilisearch-light-php-client) - A library for using a server in PHP
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Tools

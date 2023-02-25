@@ -140,6 +140,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [simple-meili-java](https://mavenlibs.com/maven/dependency/io.github.raissi/simple-meili-java) - A simple Java client
 * [Plugin for NodeBB](https://github.com/oplik0/nodebb-plugin-meilisearch)
 * [Meilisearch Light PHP Client](https://github.com/shevabam/meilisearch-light-php-client) - A library for using a server in PHP
+* [Payload Meilisearch Plugin](https://github.com/NouanceLabs/payload-meilisearch) - An integration plugin for Payload CMS
 
 **[⬆ back to top](#table-of-contents)**
 

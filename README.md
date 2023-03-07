@@ -218,6 +218,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Community Blog Posts
 * [Meilisearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)
+* :cn: [Vuepress全文搜索终极版-algolia的开源实现meilisearch全接入指南](https://wiki.eryajf.net/pages/dfc792/) - Vuepress full-text search ultimate version-algolia's open source implementation meilisearch full access guide
 
 **[⬆ back to top](#table-of-contents)**
 

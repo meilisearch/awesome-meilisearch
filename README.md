@@ -79,6 +79,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [How to use Meilisearch with Lando](https://glennjacobs.com/how-to-use-meilisearch-with-lando)
 * [Deploy Meilisearch into Azure Container Apps](https://bitoftech.net/2022/10/09/deploy-meilisearch-into-azure-container-apps/)
 * [Lightning-Fast Search with Meilisearch and Elixir in Record Time](https://medium.com/geekculture/lightning-fast-search-with-meilisearch-and-elixir-in-record-time-aeb623f8ec15)
+* [Implementing Search Functionality with Meilisearch, Prisma and Express](https://soshace.com/implementing-search-functionality-with-meilisearch-prisma-and-express/)
 
 **[⬆ back to top](#table-of-contents)**
 

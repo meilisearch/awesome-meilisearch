@@ -143,7 +143,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Plugin for NodeBB](https://github.com/oplik0/nodebb-plugin-meilisearch)
 * [Meilisearch Light PHP Client](https://github.com/shevabam/meilisearch-light-php-client) - A library for using a server in PHP
 * [Payload Meilisearch Plugin](https://github.com/NouanceLabs/payload-meilisearch) - An integration plugin for Payload CMS
-* [meilisync](https://github.com/meilisync/meilisync) - Realtime sync data from MySQL/PostgreSQL/MongoDB
+* [meilisync](https://github.com/meilisync/meilisync) - Real time data sync from MySQL, PostgreSQL, or MongoDB
 
 **[⬆ back to top](#table-of-contents)**
 

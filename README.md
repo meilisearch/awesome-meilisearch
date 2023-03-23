@@ -78,6 +78,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [How To Run a Meilisearch Frontend Using InstantSearch on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-run-a-meilisearch-frontend-using-instantsearch-on-ubuntu-22-04)
 * [How to use Meilisearch with Lando](https://glennjacobs.com/how-to-use-meilisearch-with-lando)
 * [Deploy Meilisearch into Azure Container Apps](https://bitoftech.net/2022/10/09/deploy-meilisearch-into-azure-container-apps/)
+* [Lightning-Fast Search with Meilisearch and Elixir in Record Time](https://medium.com/geekculture/lightning-fast-search-with-meilisearch-and-elixir-in-record-time-aeb623f8ec15)
+* [Implementing Search Functionality with Meilisearch, Prisma and Express](https://soshace.com/implementing-search-functionality-with-meilisearch-prisma-and-express/)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -139,6 +141,9 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Nest-MeiliSearch](https://github.com/Console45/nest-meilisearch) - A NestJS wrapper for the [JavaScript integration](https://github.com/meilisearch/meilisearch-js)
 * [simple-meili-java](https://mavenlibs.com/maven/dependency/io.github.raissi/simple-meili-java) - A simple Java client
 * [Plugin for NodeBB](https://github.com/oplik0/nodebb-plugin-meilisearch)
+* [Meilisearch Light PHP Client](https://github.com/shevabam/meilisearch-light-php-client) - A library for using a server in PHP
+* [Payload Meilisearch Plugin](https://github.com/NouanceLabs/payload-meilisearch) - An integration plugin for Payload CMS
+* [meilisync](https://github.com/meilisync/meilisync) - Real time data sync from MySQL, PostgreSQL, or MongoDB
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -181,16 +186,18 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 *See Meilisearch in action*
 
-* [Meilisearch Demos](https://github.com/meilisearch/demos)
+* [Ecommerce demo](https://github.com/meilisearch/ecommerce-demo) - Ecommerce website using multi-select facets, range and rating filtering, and pagination
+* [Where To Watch](https://github.com/meilisearch/demo-movies) - An application to help you find streaming platforms to watch movies
 * [Meilisearch x MoMA](https://github.com/meilisearch/demos/tree/main/src/MoMA) - Search through the Museum Of Modern Art Collection
 * [Search in Nobel Prizes with Meilisearch](https://github.com/meilisearch/demos/tree/main/src/nobel-prizes) - Search through all Nobel Prize winners and their details
 * [Meilisearch finds RubyGems](https://github.com/meilisearch/demos/tree/main/src/finding-rubygems) - Find Ruby gems
 * [Finding Crates](https://github.com/meilisearch/demos/tree/main/src/finding-crates) - Find Rust crates
 * [Meilisearch finds PyPI packages](https://github.com/meilisearch/demos/tree/main/src/finding-pypi) - Find Python packages
-* [Search in world cities](https://github.com/meilisearch/demos/tree/main/src/geo-javascript) - Play with Geosearch features and find info about large cities
+* [Geosearch demo](https://github.com/meilisearch/demos/tree/main/src/geo-javascript) - Use Google Maps and Meilisearch to geo search across 30,000 cities
 * [Tenant token demo](https://github.com/meilisearch/demos/tree/main/src/tenant-token) - Learn how to use the multi-tenant token feature
 * [Typo tolerance demo](https://github.com/meilisearch/demos/tree/main/src/typo-tolerance) - Play with the typo tolerance feature and browse through a book collection
 * [Matching Strategy]( https://matching-strategy.meilisearch.com) - See the different matching strategies in action
+* [Meilisearch Demos](https://github.com/meilisearch/demos) - Meilisearch demos repository
 
 **[⬆ back to top](#table-of-contents)**
 

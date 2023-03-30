@@ -144,6 +144,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Meilisearch Light PHP Client](https://github.com/shevabam/meilisearch-light-php-client) - A library for using a server in PHP
 * [Payload Meilisearch Plugin](https://github.com/NouanceLabs/payload-meilisearch) - An integration plugin for Payload CMS
 * [meilisync](https://github.com/meilisync/meilisync) - Real time data sync from MySQL, PostgreSQL, or MongoDB
+* [CloudQuery](https://www.cloudquery.io/docs/plugins/destinations/meilisearch/overview) - Syncs data from any CloudQuery source plugins to a Meilisearch instance
 
 **[⬆ back to top](#table-of-contents)**
 

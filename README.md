@@ -80,6 +80,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Deploy Meilisearch into Azure Container Apps](https://bitoftech.net/2022/10/09/deploy-meilisearch-into-azure-container-apps/)
 * [Lightning-Fast Search with Meilisearch and Elixir in Record Time](https://medium.com/geekculture/lightning-fast-search-with-meilisearch-and-elixir-in-record-time-aeb623f8ec15)
 * [Implementing Search Functionality with Meilisearch, Prisma and Express](https://soshace.com/implementing-search-functionality-with-meilisearch-prisma-and-express/)
+* :cn: [Vuepress全文搜索终极版-基于开源搜索引擎meilisearch的接入配置指南](https://wiki.eryajf.net/pages/dfc792/) - A guide on Meilisearch-based full-text search in Vuepress
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -219,7 +220,6 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Community Blog Posts
 * [Meilisearch: A Minimalist Full-Text Search Engine](https://tech.marksblogg.com/meilisearch-full-text-search.html)
-* :cn: [Vuepress全文搜索终极版-基于开源搜索引擎meilisearch的接入配置指南](https://wiki.eryajf.net/pages/dfc792/) - A guide on Meilisearch-based full-text search in Vuepress
 
 **[⬆ back to top](#table-of-contents)**
 

@@ -52,7 +52,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 
 #### Miscellaneous
-* [Use Postman with Meilisearch](https://docs.meilisearch.com/create/how_to/postman_collection.html) - Postman collection for Meilisearch
+* [Use Postman with Meilisearch](https://www.meilisearch.com/docs/learn/cookbooks/postman_collection) - Postman collection for Meilisearch
 * [Integrate a relevant search bar to your documentation](https://docs.meilisearch.com/create/how_to/search_bar_for_docs.html)
 * [Use HTTP/2 and SSL with Meilisearch](https://docs.meilisearch.com/create/how_to/http2_ssl.html)
 

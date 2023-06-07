@@ -182,7 +182,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Meilisearch Manager](https://github.com/Bwilliamson55/meili-manager) - A UI to manage instances
 * [Meiliadmin](https://github.com/kaermorchen/meiliadmin) - A dashboard for Meilisearch
 * [Meilisearch TUI](https://github.com/sanders41/meilisearch-tui) - A text user interface for searching and managing Meilisearch from the terminal
-* [meilisearch-docsearch](https://github.com/tauri-apps/meilisearch-docsearch) - A quick search component for mMilisearch, inspired by algolia/docsearch.
+* [meilisearch-docsearch](https://github.com/tauri-apps/meilisearch-docsearch) - A quick search component for Meilisearch, inspired by algolia/docsearch.
 
 **[⬆ back to top](#table-of-contents)**
 

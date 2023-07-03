@@ -146,6 +146,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Payload Meilisearch Plugin](https://github.com/NouanceLabs/payload-meilisearch) - An integration plugin for Payload CMS
 * [meilisync](https://github.com/meilisync/meilisync) - Real time data sync from MySQL, PostgreSQL, or MongoDB
 * [CloudQuery](https://www.cloudquery.io/docs/plugins/destinations/meilisearch/overview) - Syncs data from any CloudQuery source plugins to a Meilisearch instance
+* [Meilisearch.st](https://github.com/mumez/Meilisearch.st) - A client for Smalltalk
 
 **[⬆ back to top](#table-of-contents)**
 

@@ -259,5 +259,6 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 ## Other
 *Miscellaneous*
 * [Official FAQ](https://docs.meilisearch.com/faq.html)
+* [Brand assets](https://github.com/meilisearch/devrel/tree/main/assets/logos)
 
 **[⬆ back to top](#table-of-contents)**

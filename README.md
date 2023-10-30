@@ -194,6 +194,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 *See Meilisearch in action*
 
+* [SaaS demo](https://github.com/meilisearch/saas-demo) - App search in a CRM SaaS using multi-index search and tenant tokens
 * [Ecommerce demo](https://github.com/meilisearch/ecommerce-demo) - Ecommerce website using multi-select facets, range and rating filtering, and pagination
 * [Where To Watch](https://github.com/meilisearch/demo-movies) - An application to help you find streaming platforms to watch movies
 * [Meilisearch x MoMA](https://github.com/meilisearch/demos/tree/main/src/MoMA) - Search through the Museum Of Modern Art Collection

@@ -188,6 +188,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [meilisearch-docsearch](https://github.com/tauri-apps/meilisearch-docsearch) - A quick search component for Meilisearch, inspired by algolia/docsearch.
 * [Testcontainers Meilisearch](https://github.com/junghoon-vans/testcontainers-meilisearch) - A Testcontainers community module for Meilisearch
 * [pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch) - A pytest plugin to help with testing in projects using Python
+* [meilisearch-helper](https://github.com/CodyTseng/meilisearch-helper) - A helper library for meilisearch-js that simplifies development
 
 **[⬆ back to top](#table-of-contents)**
 

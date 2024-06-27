@@ -190,6 +190,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Testcontainers Meilisearch](https://github.com/junghoon-vans/testcontainers-meilisearch) - A Testcontainers community module for Meilisearch
 * [pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch) - A pytest plugin to help with testing in projects using Python
 * [meilisearch-helper](https://github.com/CodyTseng/meilisearch-helper) - A helper library for meilisearch-js that simplifies development
+* [meilisearch-filters](https://www.npmjs.com/package/meilisearch-filters) - A fluent interface to build Meilisearch filters (Javascript / Typescript)
+* [bentools/meilisearch-filters](https://packagist.org/packages/bentools/meilisearch-filters) -  A fluent interface to build Meilisearch filters (PHP)
 
 **[⬆ back to top](#table-of-contents)**
 

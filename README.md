@@ -56,6 +56,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Use HTTP/2 and SSL with Meilisearch](https://docs.meilisearch.com/create/how_to/http2_ssl.html)
 
 ### Community Guides
+* [Promoting documents with Kleio](https://kle.io/docs/meilisearch) - Integrate Meilisearch with Kleio's sponsored product listings
 * [Searching with Laravel Scout and Meilisearch](https://codecourse.com/courses/searching-with-laravel-scout-and-meilisearch) -  Build a search experience for any database data by combining Laravel Scout and Meilisearch
 * [Getting started with Laravel Scout and Meilisearch](https://laravel-news.com/getting-started-laravel-scout-meilisearch/) - A tutorial on integrating Meilisearch with Laravel 9 and Laravel Scout
 * [A series of guide on how to use Meilisearch with Laravel Scout](https://serversideup.net/search/?type=posts&tags=meilisearch+laravel)

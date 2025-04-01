@@ -48,6 +48,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Deploy on Azure](https://docs.meilisearch.com/learn/cookbooks/azure.html) - Deploy a Meilisearch instance on Azure
 * [Deploy on Koyeb](https://docs.meilisearch.com/learn/cookbooks/koyeb.html) - Deploy a Meilisearch instance on Koyeb
 * [Deploy on Railway](https://railway.app/template/meilisearch) - Deploy a Meilisearch instance on Railway
+* [Deploy on Coolify](https://coolify.io/docs/services/meilisearch) - Deploy a Meilisearch instance on Coolify
 
 
 #### Miscellaneous

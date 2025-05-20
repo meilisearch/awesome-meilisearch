@@ -151,6 +151,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Meilisearch.st](https://github.com/mumez/Meilisearch.st) - A client for Smalltalk
 * [Spring Data Meilisearch](https://github.com/junghoon-vans/spring-data-meilisearch) - Spring Data Implementation for Meilisearch
 * [django-meili](https://github.com/ikollipara/django-meili) - Django integration with Meilisearch
+* [django-meilisearch-indexer](https://github.com/Jordan-Kowal/django-meilisearch-indexer) - Meilisearch indexer for django models and related utilities
 
 **[⬆ back to top](#table-of-contents)**
 

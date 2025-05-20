@@ -150,6 +150,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [CloudQuery](https://www.cloudquery.io/docs/plugins/destinations/meilisearch/overview) - Syncs data from any CloudQuery source plugins to a Meilisearch instance
 * [Meilisearch.st](https://github.com/mumez/Meilisearch.st) - A client for Smalltalk
 * [Spring Data Meilisearch](https://github.com/junghoon-vans/spring-data-meilisearch) - Spring Data Implementation for Meilisearch
+* [django-meili](https://github.com/ikollipara/django-meili) - Django integration with Meilisearch
 
 **[⬆ back to top](#table-of-contents)**
 

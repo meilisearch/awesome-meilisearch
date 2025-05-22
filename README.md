@@ -37,16 +37,16 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 #### Basics
 * [Quick Start](https://docs.meilisearch.com/learn/getting_started/quick_start.html)
 * [Installation](https://docs.meilisearch.com/learn/getting_started/quick_start.html#setup-and-installation)
-* [Update](https://docs.meilisearch.com/create/how_to/updating.html) - Update to the latest Meilisearch version
-* [Run Meilisearch in production](https://docs.meilisearch.com/create/how_to/running_production.html)
+* [Update](https://www.meilisearch.com/docs/learn/update_and_migration/updating) - Update to the latest Meilisearch version
+* [Run Meilisearch in production](https://www.meilisearch.com/docs/guides/running_production)
 
 #### Deploy
-* [Deploy on AWS](https://docs.meilisearch.com/create/how_to/aws.html) - Deploy a Meilisearch instance on Amazon Web Services (AWS)
+* [Deploy on AWS](https://www.meilisearch.com/docs/guides/deployment/aws) - Deploy a Meilisearch instance on Amazon Web Services (AWS)
 * [Deploy on GCP](https://docs.meilisearch.com/create/how_to/gcp.html) - Deploy a Meilisearch instance on Google Cloud Platform (GCP) Compute Engine
-* [Deploy on DigitalOcean](https://docs.meilisearch.com/create/how_to/digitalocean_droplet.html) - Deploy a Meilisearch instance on DigitalOcean
-* [Deploy on Qovery](https://docs.meilisearch.com/create/how_to/qovery.html) - Deploy a Meilisearch instance on Qovery
+* [Deploy on DigitalOcean](https://www.meilisearch.com/docs/guides/deployment/digitalocean) - Deploy a Meilisearch instance on DigitalOcean
+* [Deploy on Qovery](https://www.meilisearch.com/docs/guides/deployment/qovery) - Deploy a Meilisearch instance on Qovery
 * [Deploy on Azure](https://docs.meilisearch.com/learn/cookbooks/azure.html) - Deploy a Meilisearch instance on Azure
-* [Deploy on Koyeb](https://docs.meilisearch.com/learn/cookbooks/koyeb.html) - Deploy a Meilisearch instance on Koyeb
+* [Deploy on Koyeb](https://www.meilisearch.com/docs/guides/deployment/koyeb) - Deploy a Meilisearch instance on Koyeb
 * [Deploy on Railway](https://railway.app/template/meilisearch) - Deploy a Meilisearch instance on Railway
 * [Deploy on Coolify](https://coolify.io/docs/services/meilisearch) - Deploy a Meilisearch instance on Coolify
 * [Deploy on Disco](https://docs.letsdisco.dev/deployment-guides/meilisearch) - Deploy a Meilisearch instance on Disco

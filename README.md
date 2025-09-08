@@ -126,7 +126,6 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 - [Firestore](https://github.com/meilisearch/firestore-meilisearch/)
 
 ### Community Integrations
-* [MongoMeili](https://github.com/loophole-labs/mongomeili) - Sync MongooseJS Schemas with Meilisearch
 * [YunoHost](https://github.com/YunoHost-Apps/meilisearch_ynh) - Meilisearch on a YunoHost server
 * [D](https://github.com/aberba/meilisearch) - A Meilisearch API for D
 * [Craft CMS](https://github.com/unionco/craft-meilisearch) - Plugin for Craft CMS 3.x
@@ -152,6 +151,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Spring Data Meilisearch](https://github.com/junghoon-vans/spring-data-meilisearch) - Spring Data Implementation for Meilisearch
 * [django-meili](https://github.com/ikollipara/django-meili) - Django integration with Meilisearch
 * [django-meilisearch-indexer](https://github.com/Jordan-Kowal/django-meilisearch-indexer) - Meilisearch indexer for django models and related utilities
+* ARCHIVED: ~[MongoMeili](https://github.com/loophole-labs/mongomeili) - Sync MongooseJS Schemas with Meilisearch~
 
 **[⬆ back to top](#table-of-contents)**
 

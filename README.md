@@ -199,6 +199,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [meilisearch-filters](https://www.npmjs.com/package/meilisearch-filters) - A fluent interface to build Meilisearch filters (Javascript / Typescript)
 * [bentools/meilisearch-filters](https://packagist.org/packages/bentools/meilisearch-filters) -  A fluent interface to build Meilisearch filters (PHP)
 * [Mongrel](https://www.visorcraft.com/meilisearch) - A desktop GUI with index and settings browsing, multi search, document CRUD, API key administration, and logical backups
+* [1bench](https://1bench.dev/meilisearch) - A cross-platform desktop GUI for search, vector and SQL databases
 
 **[⬆ back to top](#table-of-contents)**
 

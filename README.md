@@ -50,6 +50,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Deploy on Railway](https://railway.app/template/meilisearch) - Deploy a Meilisearch instance on Railway
 * [Deploy on Coolify](https://coolify.io/docs/services/meilisearch) - Deploy a Meilisearch instance on Coolify
 * [Deploy on Disco](https://docs.letsdisco.dev/deployment-guides/meilisearch) - Deploy a Meilisearch instance on Disco
+* [Deploy on Layerbase](https://layerbase.com/db/meilisearch) - Managed Meilisearch hosting on Layerbase
 
 
 #### Miscellaneous

@@ -83,6 +83,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Lightning-Fast Search with Meilisearch and Elixir in Record Time](https://medium.com/geekculture/lightning-fast-search-with-meilisearch-and-elixir-in-record-time-aeb623f8ec15)
 * [Implementing Search Functionality with Meilisearch, Prisma and Express](https://soshace.com/implementing-search-functionality-with-meilisearch-prisma-and-express/)
 * :cn: [Vuepress全文搜索终极版-基于开源搜索引擎meilisearch的接入配置指南](https://wiki.eryajf.net/pages/dfc792/) - A guide on Meilisearch-based full-text search in Vuepress
+* [Getting Started with Meilisearch on Layerbase](https://layerbase.com/blog/getting-started-with-meilisearch) - Run an instance locally with the Layerbase CLI or managed on Layerbase Cloud, then index and search a movie dataset
 
 **[⬆ back to top](#table-of-contents)**
 

@@ -132,6 +132,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Airbyte](https://airbyte.io/connectors/meilisearch) - Connector for Airbyte
 * [Statamic Meilisearch](https://statamic.com/addons/elvenstar/statamic-meilisearch) - Driver for Statamic 3
 * [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) - Plugin for Medusa
+* [Spree Commerce](https://github.com/spree/spree/tree/main/spree/providers/meilisearch) - Product search, filtering and faceted navigation for Spree Commerce stores
 * [Kotlin](https://github.com/nemoengineering/meilisearch-kotlin) - A Kotlin wrapper
 * [Meili Ktr](https://github.com/JonathanxD/meili-ktr) - A multiplatform Kotlin client
 * [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) - Yii2 framework extension
